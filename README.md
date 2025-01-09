@@ -9,15 +9,21 @@ Batch Processing: Generate and distribute certificates in bulk.
 View Certificates: Access and download issued certificates.
 Search Records: Find certificates based on user ID or other criteria.
 ## Technologies Used
+
 ### Frontend:
+
 HTML5
-CSS3
-Tailwind CSS
+1. CSS3
+2. Tailwind CSS
+
 ### Backend:
-Node.js
-Express.js
+
+1. Node.js
+2. Express.js
+
 ### Database:
-MongoDB
+
+1. MongoDB
 
 ### Installation
 1. Clone the Repository

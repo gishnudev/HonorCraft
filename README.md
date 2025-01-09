@@ -18,47 +18,71 @@ Node.js
 Express.js
 ### Database:
 MongoDB
+
 ### Installation
 1. Clone the Repository
+   
 Clone the project using Git:
 
-bash
 Copy code
-git clone https://github.com/gishnudev/HonorCraft
-cd honorcraft
+```bash
+  git clone https://github.com/gishnudev/HonorCraft
+  cd honorcraft
+```
+
 
 2. Install Dependencies
+   
 Install the required dependencies using npm:
 
-bash
-Copy code
-npm install
+```bash
+  npm install
+
+```
+
 
 3. Set Up Environment Variables
+   
 Create a .env file in the root directory and specify the following:
 
-bash
 Copy code
-MONGO_URI=your_mongodb_connection_string
-PORT=your_desired_port_number
+
+```bash
+  MONGO_URI=your_mongodb_connection_string
+  PORT=your_desired_port_number
+
+```
+
 4. Run the Application
+
 Start the application by running:
 
-bash
 Copy code
-npm run dev
+
+```bash
+  npm run dev
+
+```
 
 ## Open the Application
 In the terminal, ensure you’re in the folder containing the project and run npm run dev.
 Open the home page in your browser using Live Server for a seamless experience.
+
 ### Contributing
 Contributions are welcome! Please follow these steps:
+
 Fork the repository.
+
 Create a new branch for your feature or bug fix.
+
 Commit your changes.
+
 Push your branch and create a pull request.
+
 ### Contact
+
 For any queries or feedback, feel free to reach out:
 
 Email: jishnudevadathan1998@gmail.com
+
 GitHub: gishnudev

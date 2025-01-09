@@ -2,12 +2,19 @@
  HonorCraft is a software solution designed to streamline the creation, customization, and distribution of certificates for various subjects. 
 ## Features
 ### For Admins:
+
 Create, Update, and Delete Certificates: Manage certificate templates with ease.
+
 User Management: Add and update user details.
+
 Batch Processing: Generate and distribute certificates in bulk.
+
 ### For Users:
+
 View Certificates: Access and download issued certificates.
+
 Search Records: Find certificates based on user ID or other criteria.
+
 ## Technologies Used
 
 ### Frontend:
@@ -40,6 +47,8 @@ Copy code
 2. Install Dependencies
    
 Install the required dependencies using npm:
+
+Copy code
 
 ```bash
   npm install
